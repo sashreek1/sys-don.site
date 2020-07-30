@@ -139,26 +139,11 @@ weight = 3
 name = "Service"
 URL = "service"
 weight = 4
-
-[[Languages.en.menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 5
-
-[[Languages.en.menu.main]]
-weight = 6
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
   
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 7
+weight = 5
 
 
 # footer menu
@@ -176,16 +161,6 @@ weight = 2
 name = "Service"
 URL = "service"
 weight = 3
-
-[[Languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
 
 [[Languages.en.menu.footer]]
 name = "Contact"

@@ -11,11 +11,6 @@ about:
           velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
           dolor sit amet, consectetur adipisicing elit. Provident, neque!"
 
-  button:
-    enable : true
-    label : "Download Company Profile"
-    link : "#"
-
   funfacts:
     # funfacts loop
     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
