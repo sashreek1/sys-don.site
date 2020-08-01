@@ -1,6 +1,6 @@
 ---
 title: "Drop Us A Note"
-description: "this is meta description"
+description: "Contact us to request or donate any of your computers"
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

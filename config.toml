@@ -52,15 +52,15 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
+mobile = "9901939100, 9686081890, 9845094630"
+email = "sashreek123@hotmail.com"
 location = "Bengaluru, Karnataka, India"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
-multi_author = false
+multi_author = true
 
 # Preloader
 [params.preloader]
@@ -86,14 +86,10 @@ map_marker = "images/marker.png"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = ""
 
 [[params.social]]
 icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 [[params.social]]
@@ -133,7 +129,7 @@ URL = "project"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Service"
+name = "Credits"
 URL = "service"
 weight = 4
   
@@ -155,7 +151,7 @@ URL = "project"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Service"
+name = "Credits"
 URL = "service"
 weight = 3
 
