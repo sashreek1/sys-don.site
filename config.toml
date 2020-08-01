@@ -123,7 +123,7 @@ URL = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
+name = "About Us"
 URL = "about"
 weight = 2
 
