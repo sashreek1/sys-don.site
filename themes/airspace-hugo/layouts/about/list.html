@@ -29,13 +29,12 @@
 
 <section class="about section">
   <div class="container">
-    <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-3">
         <div class="about-img">
           <img class="img-responsive" src="{{ .image1 | relURL }}">
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-3">
         <h2 class="mt-40">{{ .title1 | markdownify }}</h2>
         {{ .content1 | markdownify }}
         {{ if .button.enable }}
@@ -43,21 +42,14 @@
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
         {{ end }}
         {{ end }}
-      </div>
-    </div>
   </div>
-</section>
 
-
-<section class="about section">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-3">
         <div class="about-img">
           <img class="img-responsive" src="{{ .image2 | relURL }}">
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-3">
         <h2 class="mt-40">{{ .title2 | markdownify }}</h2>
         {{ .content2 | markdownify }}
         {{ if .button.enable }}
@@ -65,9 +57,8 @@
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
         {{ end }}
         {{ end }}
-      </div>
-    </div>
   </div>
+</div>
 </section>
 
 {{ end }}
