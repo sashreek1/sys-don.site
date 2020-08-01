@@ -3,12 +3,12 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A Not-For-Profit initiative donating computers to the needy"
+  title : "A Not-For-Profit initiative donating computers to students in need"
   content : "We believe that every child in the world deserves to have access to cheap yet powerful computing in arm's reach"
   button:
     enable : true
-    label : "Discover Our Project"
-    link : "project"
+    label : "Contact Us"
+    link : "contact"
 
 ############################# About #################################
 about:
