@@ -55,7 +55,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Testimonials"
   description : ""
   funfact_item:
