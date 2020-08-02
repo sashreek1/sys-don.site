@@ -7,7 +7,7 @@ paginate = "4"
 # post excerpt
 summaryLength = "30"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+disqusShortname = "techdono" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
