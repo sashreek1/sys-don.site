@@ -56,7 +56,7 @@ mobile = "9901939100, 9686081890, 9845094630"
 email = "sashreek123@hotmail.com"
 location = "Bengaluru, Karnataka, India"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formsubmit.co/sashreek123@hotmail.com" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
