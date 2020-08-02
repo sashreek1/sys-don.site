@@ -10,20 +10,17 @@ about:
   image1 : "images/company/vedram.jpg"
   title1 : "Vedram S"
   post1: "coordinator"
-  content1 : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque."
+  content1 : "A typical Indian engineering aspirant learning android development."
 
   image2 : "images/company/athul.jpg"
   title2 : "Athul Boben"
   post2: "coordinator"
-  content2 : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque."
+  content2 : "computer enthusiast and amateur penetration tester."
 
-  image3 : "images/company/athul.jpg"
+  image3 : "images/company/kaustub.jpg"
   title3 : "Kaustub Pingali"
   post3 : "Logo Designer"
-  content3 : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque."
+  content3 : "Extroverted optimist and an aspiring designer."
 
 
   funfacts:
