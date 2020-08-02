@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "A Not-For-Profit initiative donating computers to students in need"
-  content : "We believe that every child in the world deserves to have access to cheap yet powerful computing in arm's reach"
+  content : "We believe that every child in the world deserves to have access to cheap yet powerful computing within arm's reach"
   button:
     enable : true
     label : "Contact Us"
@@ -15,9 +15,9 @@ about:
   enable : true
   title : "About Us"
   description : ""
-  content : "We are a group of high school students that believe in the wonders of computing. 
-  While we were privileged enough to own computers of our own, we know there are many who aren't. 
-  Through this initiative, we wish to share the opportunity to cherish the joy of computing with those who aren't privileged enough."
+  content : "We are a group of high school students who believe in the wonders of computing.
+   While we are fortunate enough to have our own computers, there are many who aren't.  With the sudden transition to online learning, due to the pandemic, many unfortunate students are being left behind.
+   Through this initiative, we wish to share the opportunity to cherish the joy of computing and learning with those who aren’t fortunate enough."
   image : "images/wrapper-img.png"
 
 
@@ -27,10 +27,9 @@ portfolio:
   bg_image : "images/featue-bg.jpg"
   title : "What We Do"
   content : "
-  Through this initiative we contact instituitions and large companies to collect donations in the form of old/used computers. 
-  We then repair these machines and install appropriate software for student use. The repaired computers are then distributed to individuals
-  who may not be able to buy these machines from stores. 
-  "
+  Through this initiative we contact individuals, institutions and large companies to collect donations in the form of old or used computers.
+   We then install appropriate software and configure the systems to make it usable for students.
+    The renewed computers are then distributed to individuals who are unable to afford their own systems."
   button:
     enable : false
     label : "View Works"
@@ -55,28 +54,39 @@ cta:
     link : "contact"
 
 ############################# Funfacts ###############################
-#funfacts:
-#  enable : true
-#  title : "Fun Facts About Us"
-#  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-#          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-#  funfact_item:
+funfacts:
+  enable : true
+  title : "Testimonials"
+  description : ""
+  funfact_item:
     # funfacts item loop
-#    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Cups Of Coffee"
-#      count : "99"
+    - icon : "ion-laptop" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Computers received"
+      count : "2"
       
     # funfacts item loop
-#    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Article Written"
-#     count : "45"
-      
-    # funfacts item loop
-#    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Projects Completed"
-#      count : "125"
-      
-    # funfacts item loop
-#    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Combined Projects"
-#      count : "200"
+    - icon : "ion-laptop" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Computers donated"
+      count : "2"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Raymond Roy"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
