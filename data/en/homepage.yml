@@ -29,7 +29,7 @@ portfolio:
   content : "
   Through this initiative we contact individuals, institutions and large companies to collect donations in the form of old or used computers.
    We then install appropriate software and configure the systems to make it usable for students.
-    The renewed computers are then distributed to individuals who are unable to afford their own systems."
+    The renewed computers are then distributed to students who are unable to afford their own systems."
   button:
     enable : false
     label : "View Works"
@@ -47,7 +47,7 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "Can't wait for you to join us !"
-  content : "If you would like to donate your old desktop or laptop computers feel free to contact us here"
+  content : "If you would like to donate your old desktops or laptops feel free to contact us here"
   button:
     enable : true
     label : "Contact Us"
