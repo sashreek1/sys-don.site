@@ -47,7 +47,7 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "Can't wait for you to join us !"
-  content : "If you would like to donate your old desktops or laptops feel free to contact us here"
+  content : "If you would like to donate your old desktops, laptops or smartphones feel free to contact us here"
   button:
     enable : true
     label : "Contact Us"
