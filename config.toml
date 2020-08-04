@@ -49,7 +49,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = ""
 author = "Themefisher"
 # Contact Information
 mobile = "9901939100, 9686081890, 9845094630"
