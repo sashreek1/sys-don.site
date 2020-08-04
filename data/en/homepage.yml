@@ -13,7 +13,7 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Who are we ?"
+  title : "Who Are We ?"
   description : ""
   content : "We are a group of high school students who believe in the wonders of computing.
    While we are fortunate enough to have our own computers, there are many who aren't.  With the sudden transition to online learning, due to the pandemic, many unfortunate students are being left behind.
