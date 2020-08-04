@@ -104,7 +104,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "© Sashreek Shankar 2020 · Made with [GitHub](), [Netlify](https://www.netlify.com/) and [Themefisher's](https://themefisher.com) airspace theme for [Hugo](https://gohugo.io/)"
+copyright = "© CFAll 2020 · Made with [GitHub](), [Netlify](https://www.netlify.com/) and [Themefisher's](https://themefisher.com) airspace theme for [Hugo](https://gohugo.io/)"
 
 
 ######################### english navigation #############################
