@@ -58,7 +58,7 @@ location = "Bengaluru, Karnataka, India"
 # contact form action
 contact_form_action = "https://formsubmit.co/sashreek123@hotmail.com" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "UA-165000028-3" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = true
 
