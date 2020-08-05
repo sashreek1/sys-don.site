@@ -15,9 +15,14 @@ about:
   enable : true
   title : "Who Are We ?"
   description : ""
-  content : "We are a group of high school students who believe in the wonders of computing.
-   While we are fortunate enough to have our own computers, there are many who aren't.  With the sudden transition to online learning, due to the pandemic, many unfortunate students are being left behind.
-   Through this initiative, we wish to share the opportunity to cherish the joy of computing and learning with those who aren’t fortunate enough."
+  content : "We are a group of high school students who have enjoyed the experience of using a computer for 
+  a considerable amount of time. Some of us have even built our own computers from scratch. 
+  Yet, there are many students who haven’t even had the chance to call a computer their own. 
+  As teaching has gone completely online due to the pandemic, it has become a necessity for students to have their own systems. 
+  Through our initiative, We help the students who are unable to afford their own systems by providing it to them from various 
+  institutions, companies and individuals. All the necessary modifications are done by ourselves. 
+  We sincerely hope that you will support us in taking this initiative forward, to help us ensure that no 
+  student goes without proper education."
   image : "images/wrapper-img.png"
 
 
@@ -27,7 +32,7 @@ portfolio:
   bg_image : "images/featue-bg.jpg"
   title : "What We Do"
   content : "
-  Through this initiative we contact individuals, institutions and large companies to collect donations in the form of old or used computers.
+  We contact individuals, institutions and large companies to collect donations in the form of old or used computers.
    We then install appropriate software and configure the systems to make it usable for students.
     The renewed computers are then distributed to students who are unable to afford their own systems."
   button:
