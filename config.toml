@@ -53,10 +53,10 @@ description = "Computers For All"
 author = "Themefisher"
 # Contact Information
 mobile = "9901939100, 9686081890, 9845094630"
-email = "sashreek123@hotmail.com"
+email = "cfall.blr@gmail.com"
 location = "Bengaluru, Karnataka, India"
 # contact form action
-contact_form_action = "https://formsubmit.co/sashreek123@hotmail.com" # contact form works with : https://formspree.io
+contact_form_action = "https://formsubmit.co/cfall.blr@gmail.com" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "UA-165000028-3" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
@@ -94,7 +94,7 @@ link = "https://twitter.com/Sashreek11"
 
 [[params.social]]
 icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://www.instagram.com/sashreek1/"
+link = "https://www.instagram.com/cfall_blr/"
 
 
 ################################ English Language ########################
