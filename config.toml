@@ -86,11 +86,11 @@ map_marker = "images/marker.png"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://www.linkedin.com/in/sashreek-shankar-b504041aa/"
+link = "https://www.linkedin.com/company/cfall/"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://twitter.com/Sashreek11"
+link = "https://twitter.com/CfallB"
 
 [[params.social]]
 icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
