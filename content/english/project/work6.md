@@ -1,5 +1,5 @@
 ---
-title: "Our 6ᵗʰ beneficiary"
+title: ""
 description: ""
 draft: false
 image : "images/portfolio/work6.jpg"
